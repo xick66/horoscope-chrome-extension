@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Today's Special and Horoscope",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "permissions": [
+    "storage",
+    "http://*/*",
+    "https://*/*"
+  ]
+}

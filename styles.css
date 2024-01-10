@@ -1,0 +1,23 @@
+/* Add CSS styles for dropdown menu */
+select {
+  display: block;
+  width: 200px;
+  padding: 5px;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.zodiac-container {
+  display: flex;
+  align-items: center;
+}
+
+.zodiac-container img {
+  margin-left: 10px;
+  width: 50px;
+  height: 50px;
+}
+
+#horoscope {
+  margin-top: 20px;
+}
